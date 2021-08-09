@@ -1,5 +1,6 @@
-# Patika_ObjectOrientedProgramming_HWs
+***Patika_ObjectOrientedProgramming_HWs***
 Patika.dev - Object Oriented Programming eğitimi için yapılan UML diyagramı ödevleri
+*(Çizimler https://www.lucidchart.com/ kullanılarak yapılmıştır.)*
 
 
 | Üniversite Yönetim Sistemi - UML Diagram | 
