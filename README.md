@@ -7,11 +7,9 @@ Patika.dev - Object Oriented Programming eğitimi için yapılan UML diyagramı 
 | ![Preview](screens/uml1.png) |
 
 
-
 | Hayvanat Bahçesi Yönetimi - UML Diagram | 
 | --- |
 | ![Preview](screens/uml2.png) |
-
 
 
 | Uçuş Yönetim Sistemi - UML Diagram | 
@@ -22,7 +20,6 @@ Patika.dev - Object Oriented Programming eğitimi için yapılan UML diyagramı 
 | Online Film Sitesi - UML Diagram | 
 | --- |
 | ![Preview](screens/uml4.png) |
-
 
 
 | Asansör Simülasyonu - UML Diagram | 
